@@ -1,6 +1,7 @@
 # LFI-Paradise
 Local File Inclusion Scanner and Exploiter
-****Features:
+
+**Features**
 1- Scanner
 2- Exploiter
 
