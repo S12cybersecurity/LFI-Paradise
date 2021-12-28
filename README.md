@@ -7,6 +7,7 @@ Local File Inclusion Scanner and Exploiter
 2- Exploiter
 
 **Exploiter Attack Vectors:**
+
 1- /proc/self/environ
 
 2- /var/log/auth.log
