@@ -33,3 +33,6 @@ Local File Inclusion Scanner and Exploiter
 
 **Usage**
 - python3 lfi.paradise.py
+
+
+![imatge](https://user-images.githubusercontent.com/79543461/147583246-4ecc4c39-de28-4603-97eb-cde8d927c3e9.png)
