@@ -20,5 +20,5 @@ Local File Inclusion Scanner and Exploiter
 - pip3 install pyfiglet
 - pip3 install SimpleTelnetMail
 
-**Usage
+**Usage**
 - python3 lfi.paradise.py
